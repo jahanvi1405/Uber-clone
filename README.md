@@ -1,4 +1,4 @@
-# 🚗 RideNow – Uber Inspired Frontend
+# 🚗 Uber Inspired Frontend
 
 A modern, responsive ride-booking landing page inspired by Uber’s design.  
 Built purely with HTML and CSS to practice layout structuring, responsive design, and UI styling.
