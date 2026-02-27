@@ -470,8 +470,15 @@ nav>ul>li>a:hover{
     margin-bottom:30px;
     margin-right:100px;
 }
-
-
+.brian-right>a{
+    text-decoration: none;
+    color: gray;
+    text-decoration: underline;
+  text-underline-offset: 5px;
+}
+.brian-right>a:hover{
+    color: black;
+}
 .travel {
     background-color: #f6f6f6;
     padding: 80px 0;
